@@ -9,10 +9,14 @@
 ### 会場
 [滋賀ダイハツアリーナ](https://shiga-arena.jp), [MAP](https://goo.gl/maps/sTLdyA72JWa7g67s9)
 
-## 参加方法
+## 参加方法 (REGISTRATION)
 手順は以下の通りです．
 
-1. @Homeリーグ実行委員が用意する仮登録フォームに申請する（本登録で必要なチームコードが発行されます）
-2. ロボカップ事務局へ本登録を行う
+1. **Pre registration** @Homeリーグ実行委員が用意する[仮登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSchOq-ZFpDM4_SGi-v-VwI93-Mz1-hiSW0qeE3oUSAUC6o26g/viewform)に申請する（本登録で必要なチームコードが発行されます）
+2. **Registration** [ロボカップ事務局の登録フォーム](https://www.robocup.or.jp/japanopen2023/registration.html)で本登録を行う
+3. **Payment** 参加費支払い
 
-現在仮登録フォーム準備中です．完成次第アナウンス予定ですのでお待ちください．
+### 締切 (IMPORTANT DAYS)
+- 仮登録締切 (Pre registration): 2023/03/31, 13:00 JST
+- 本登録締切 (Registration): 2023/03/31
+- 参加費支払い締切 (Payment): 2023/04/07
