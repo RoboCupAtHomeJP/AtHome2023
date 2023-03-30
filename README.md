@@ -20,3 +20,7 @@
 - 仮登録締切 (Pre registration): 2023/03/31, 13:00 JST
 - 本登録締切 (Registration): 2023/03/31
 - 参加費支払い締切 (Payment): 2023/04/07
+
+## 参加チーム (Participants)
+
+<img src="images/participants.png">
