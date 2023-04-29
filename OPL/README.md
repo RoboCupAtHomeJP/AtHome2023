@@ -45,10 +45,10 @@ The object not listed in the list above.
 | --- | -------------------------------------------------------- | ------------------------------------------- |
 | 1   | What is the highest mountain in Japan?                   | It is Mt. Fuji.                             |
 | 2   | What is the largest lake in Japan?                       | It is Lake Biwa.                            |
-| 3   | Where are you coming from?                               | We are coming from {your_country}.          |
+| 3   | Where are you coming from?                               | We are coming from `your_country`.          |
 | 4   | Are you enjoying this competition?                       | Yes, we are enjoying it a lot.              |
 | 5   | What is your favorite drink?                             | My favorite drink is `favorite_drink_name`. |
-| 6   | How are you today?                                       | I am feeling {emotion}.                     |
+| 6   | How are you today?                                       | I am feeling `emotion`.                     |
 | 7   | Do Thai people ride an elephant to go to the university? | No, they ride a dinosaur.                   |
 | 8   | Can you tell me which country won the WBC this year?     | Japan.                                      |
 | 9   | Can you tell me how many joints your robot arm has?"     | It has `num_of_arms`.                       |
@@ -61,8 +61,8 @@ The object not listed in the list above.
 | 1   | Standing                    |
 | 2   | Raising one hand            |
 | 3   | Waving both hands over head |
-| 4   | Ok symbol (👌)             |
-| 5   | Sitting                     |
+| 4   | Performing the OK symbol    |
+| 5   | Sitting on a chair          |
 
 ## Names
 
@@ -82,3 +82,7 @@ The object not listed in the list above.
 | Olivia       | Sam        |
 | Parker       | Thomas     |
 | Sam          | William    |
+
+## GPSR
+
+[Modified version of the GPSR command generator](https://github.com/akinobu1998/GPSRCmdGen/tree/rcj-opl2023) is used. Please check [the latest release](https://github.com/akinobu1998/GPSRCmdGen/releases).
