@@ -14,7 +14,7 @@
 
 
 ## Carry My Luggage
-Bag to be used will be [the same as in RCJ 2022]().
+Bag to be used will be [the same as in RCJ 2022](https://www.amazon.co.jp/dp/B0173OZPSW/?th=1) which dimensions are 260×10×310\[mm\].
 
 ## Receptionist
 
