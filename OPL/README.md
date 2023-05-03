@@ -2,9 +2,23 @@
 
 ## Common
 
+### Environment
+
+![common_full](./images/env/common_full_env.jpg)
+![common_simple](./images/env/common_simple_env.jpg) 
+![ri_env](./images/env/ri_env.jpg)
+![tu_env](./images/env/tu_env.jpg)
+![ri_env](./images/env/gpsr_env.jpg)
+![cml_env](./images/env/cml_env.jpg)
+![rc_env](./images/env/rc_env.jpg)
+
+
 ## Carry My Luggage
+Bag to be used will be [the same as in RCJ 2022](https://www.amazon.co.jp/dp/B0173OZPSW/?th=1) which dimensions are 260×10×310\[mm\].
 
 ## Receptionist
+
+### Drink List
 
 | #   | Drink name  |
 | --- | ----------- |
@@ -15,23 +29,50 @@
 | 5   | Coffee      |
 | 6   | Beer        |
 
+### Name List
+
+The [same name list used for GPSR](#names) will be used for the Receptionist task.
+
 ## Tidy Up
 
 ## Object List
 
 ### [Known] Standard Object List
 
-The same [object list used in the RCAP 2021](https://github.com/RoboCupAtHomeJP/AtHome2021/blob/master/Data/opl_known_object_list.pdf) is for the pre-announced known object.
+The same [object list used in the RCAP 2021](https://github.com/RoboCupAtHomeJP/AtHome2021/blob/master/Data/opl_known_object_list.pdf) is used as pre-announced known objects.
 
 ### [Known] Consistent Object List
 
-The list will published in the setup day.
+| Picture | <img src="./images/obj/barley_tea.png" height="300"> | <img src="./images/obj/label_remover.jpeg" height="300"> | <img src="./images/obj/pink_sponge.jpg" height="300"> |
+| ------------ | ------------ | ----------- | ----------- |
+| Item Name    | Barley Tea | Label Remover | Pink Sponge |
+| Object Class | Food Item | Task Item | Kitchen Item |
+
+> **Note**
+> 1 iteam will be given to each team.
+
+> **Warning**
+> The `Barley Tea` object will be empty.
+> The stick from the  `Label Remover` will not be taken off.
+> The `Pink Sponge` item will be used without the plastic wrap. 
+
+### Dummy Object
+
+| Picture | <img src="./images/obj/tomato_can.jpeg" height="300"> |
+| ------------ | ------------ |
+| Item Name    | Tomato Can |
+| Object Class | Dummy Object |
+
+> **Note**
+> 3 dummy objects will be placed in the avoidance area during the Tidy Up task.
+> No dummy objects will be distributed to each team. Please use it only the practice time.
 
 ### Unknown Object
 
-The object not listed in the list above.
+The object to be used will be one not listed above and will not be previously announced.
 
-## Predefined Locations for Categories
+## GPSR
+### Predefined Locations for Categories
 
 | Object Class | Location     | Room        |
 | ------------ | ------------ | ----------- |
@@ -39,7 +80,7 @@ The object not listed in the list above.
 | Kitchen      | Long table B | Living room |
 | Task         | Tall table   | Hallway     |
 
-## Questions
+### Questions
 
 | #   | Question                                                 | Answer                                      |
 | --- | -------------------------------------------------------- | ------------------------------------------- |
@@ -54,7 +95,7 @@ The object not listed in the list above.
 | 9   | Can you tell me how many joints your robot arm has?"     | It has `num_of_arms`.                       |
 | 10  | What is 3 times 5?                                       | It is 15.                                   |
 
-## Postures
+### Postures
 
 | #   | Posture                         |
 | --- | ------------------------------- |
@@ -64,7 +105,7 @@ The object not listed in the list above.
 | 4   | Performing the thumbs-up symbol |
 | 5   | Sitting on a chair              |
 
-## Names
+### Names
 
 > **Note**
 > The same [name list as RoboCup 2019](https://github.com/RoboCupAtHome/Sydney2019/blob/master/Files/Names.pdf) is used.
@@ -83,6 +124,6 @@ The object not listed in the list above.
 | Parker       | Thomas     |
 | Sam          | William    |
 
-## GPSR
+### Command Generator
 
 [Modified version of the GPSR command generator](https://github.com/akinobu1998/GPSRCmdGen/tree/rcj-opl2023) is used. Please check [the latest release](https://github.com/akinobu1998/GPSRCmdGen/releases).
