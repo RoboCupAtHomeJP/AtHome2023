@@ -27,3 +27,6 @@
 
 ## OPL
 [OPLの事前公開リスト・マップ等の情報一覧](./OPL/README.md)
+
+## DSPL
+[DSPLの事前公開リスト・マップ等の情報一覧](./DSPL/README.md)
