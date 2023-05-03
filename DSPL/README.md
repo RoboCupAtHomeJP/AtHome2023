@@ -1,4 +1,4 @@
 # DSPL Information
 
 - General Information
-    - [オブジェクトリスト](objects_dspl.pdf)
+    - [オブジェクトリスト](dspl_objects_with_predefined_location.pdf)
