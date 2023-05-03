@@ -6,6 +6,10 @@
 大会情報等，順次更新していきます．大会概要について，まずは以下の日本委員会のサイトをご参照ください．
 - [ロボカップ日本委員会サイト](https://www.robocup.or.jp/japanopen2023/overview.html)
 
+## スケジュール / Schedule
+
+<a href="images/RCJ23_TimeTable.pdf"><img src="images/RCJ23_TimeTable.jpg" /></a>
+
 ### 会場
 [滋賀ダイハツアリーナ](https://shiga-arena.jp), [MAP](https://goo.gl/maps/sTLdyA72JWa7g67s9)
 
