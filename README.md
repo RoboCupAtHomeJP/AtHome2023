@@ -34,3 +34,6 @@
 
 ## DSPL
 [DSPLの事前公開リスト・マップ等の情報一覧](./DSPL/README.md)
+
+アリーナWiFiを利用されるチーム（DSPL）は以下のフォームからWi-Fiに接続するすべての機器のMACアドレスを申請してください．
+[DSPLアリーナWiFiMACアドレス申請フォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAMWXA8tURFdEN1g3SjdHTEhVMTdFNDNLWlVST1Y3Ty4u)
