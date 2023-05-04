@@ -10,7 +10,7 @@
 
 ### Questions
 
-| #   | Question                                                 | Answer                                      |
+| #   | Question                                                 | Answer (Example)                            |
 | --- | -------------------------------------------------------- | ------------------------------------------- |
 | 1   | What is the highest mountain in Japan?                   | It is Mt. Fuji.                             |
 | 2   | What is the largest lake in Japan?                       | It is Lake Biwa.                            |
@@ -20,7 +20,7 @@
 | 6   | How are you today?                                       | I am feeling `emotion`.                     |
 | 7   | Do Thai people ride an elephant to go to the university? | No, they ride a dinosaur.                   |
 | 8   | Which country won the WBC this year?                     | Japan.                                      |
-| 9   | How many joints does your robot arm have?"               | It has `num_of_arms`.                       |
+| 9   | How many joints does your robot arm have?"               | It has 5.                                   |
 | 10  | What is 3 times 5?                                       | It is 15.                                   |
 
 ### Names
