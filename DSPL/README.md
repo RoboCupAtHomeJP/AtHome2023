@@ -1,5 +1,9 @@
 # DSPL Information
 
+## Score
+2023年5月4日 16:26最終更新
+<p><img src="score.png" alt="score"></p>
+
 ## Robot Inspection
     - 入口：Tidy UpアリーナのEntrance
     - 出口：Tidy UpアリーナのObstacle Avoidance Area
@@ -64,3 +68,4 @@
 
 <p><img src="../images/funeko_0.png" alt="funeko", width="240" height="170"></p>
 <p><img src="../images/funeko_1.png" alt="funeko", width="170" height="240"></p>
+
