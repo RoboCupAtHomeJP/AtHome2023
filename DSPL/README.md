@@ -19,8 +19,8 @@
 | 5   | What is your favorite drink?                             | My favorite drink is `favorite_drink_name`. |
 | 6   | How are you today?                                       | I am feeling `emotion`.                     |
 | 7   | Do Thai people ride an elephant to go to the university? | No, they ride a dinosaur.                   |
-| 8   | Can you tell me which country won the WBC this year?     | Japan.                                      |
-| 9   | Can you tell me how many joints your robot arm has?"     | It has `num_of_arms`.                       |
+| 8   | Which country won the WBC this year?                     | Japan.                                      |
+| 9   | How many joints does your robot arm have?"               | It has `num_of_arms`.                       |
 | 10  | What is 3 times 5?                                       | It is 15.                                   |
 
 ### Names
@@ -51,4 +51,11 @@
 | 3   | Waving both hands over head     |
 | 4   | Performing the thumbs-up symbol |
 | 5   | Sitting on a chair              |
+
+## GPSR
+### Map
+
+
+
+
 
