@@ -55,7 +55,12 @@
 ## GPSR
 ### [Map](gpsr_map.pdf)
 
+## Tidy Up
+### Boss character
 
+以下（阪九フェリーのキャラ「ふねこ」）をボスキャラとして選定します．ストラップは外した状態で使用します．
 
+各アリーナに一つずつ配置しますので，無くさないように使ってください．
 
-
+<p><img src="../images/funeko_0.png" alt="funeko", width="240" height="170"></p>
+<p><img src="../images/funeko_1.png" alt="funeko", width="170" height="240"></p>
