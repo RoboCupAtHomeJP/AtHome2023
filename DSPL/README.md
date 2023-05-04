@@ -53,7 +53,7 @@
 | 5   | Sitting on a chair              |
 
 ## GPSR
-### Map
+### [Map](gpsr_map.pdf)
 
 
 
