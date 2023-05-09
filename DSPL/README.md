@@ -1,8 +1,13 @@
 # DSPL Information
 
 ## Score
-2023年5月4日 16:26最終更新
-<p><img src="score.png" alt="score"></p>
+2023年5月9日 14:15最終更新
+
+### タスク成績
+<p><img src="task_score.png" alt="task_score"></p>
+
+### テクニカルチャレンジ成績
+<p><img src="technical_challenge_score.png" alt="tc_score"></p>
 
 ## Robot Inspection
     - 入口：Tidy UpアリーナのEntrance
