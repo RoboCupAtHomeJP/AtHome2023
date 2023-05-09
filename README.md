@@ -41,7 +41,10 @@
 Please chech the [score sheet](https://docs.google.com/spreadsheets/d/1gMZPzfHsSJDjRlE8-j3S--jwaql_sCJq/edit#gid=855097569) if you want to know in detail the achieved points for each task.
 
 ## DSPL
-[DSPLの事前公開リスト・マップ等の情報一覧](./DSPL/README.md)
+[DSPLの事前公開リスト・マップ等の情報一覧とスコア](./DSPL/README.md)
 
 アリーナWiFiを利用されるチーム（DSPL）は以下のフォームからWi-Fiに接続するすべての機器のMACアドレスを申請してください．
 [DSPLアリーナWiFiMACアドレス申請フォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAMWXA8tURFdEN1g3SjdHTEhVMTdFNDNLWlVST1Y3Ty4u)
+
+## Education
+[スコア](./EDU/README.md)
